@@ -14,7 +14,7 @@ public class Main {
         jFrame.setBounds(0,0,700,600);
         jFrame.setDefaultCloseOperation(EXIT_ON_CLOSE);
 //        jFrame.setResizable(false);
-        jFrame.setTitle("Brick Breaker");
+        jFrame.setTitle("Play with Ball");
         jFrame.add(gamePlay);
 
 
